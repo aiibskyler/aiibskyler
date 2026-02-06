@@ -29,7 +29,7 @@ Most of my work is around backend frameworks, cloud-native systems, and AI engin
 ## 📈 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiibskyler/aiibskyler/assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiibskyler/aiibskyler/assets/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/aiibskyler/aiibskyler/assets/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aiibskyler/aiibskyler/blob/main/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aiibskyler/aiibskyler/blob/main/assets/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://github.com/aiibskyler/aiibskyler/blob/main/assets/github-contribution-grid-snake.svg">
 </picture>
